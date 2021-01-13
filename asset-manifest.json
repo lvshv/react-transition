@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-transition/static/css/main.2d80333d.chunk.css",
+    "main.js": "/react-transition/static/js/main.ba1f8525.chunk.js",
+    "main.js.map": "/react-transition/static/js/main.ba1f8525.chunk.js.map",
+    "runtime-main.js": "/react-transition/static/js/runtime-main.6877cbf9.js",
+    "runtime-main.js.map": "/react-transition/static/js/runtime-main.6877cbf9.js.map",
+    "static/js/2.2ac41110.chunk.js": "/react-transition/static/js/2.2ac41110.chunk.js",
+    "static/js/2.2ac41110.chunk.js.map": "/react-transition/static/js/2.2ac41110.chunk.js.map",
+    "index.html": "/react-transition/index.html",
+    "static/css/main.2d80333d.chunk.css.map": "/react-transition/static/css/main.2d80333d.chunk.css.map",
+    "static/js/2.2ac41110.chunk.js.LICENSE.txt": "/react-transition/static/js/2.2ac41110.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6877cbf9.js",
+    "static/js/2.2ac41110.chunk.js",
+    "static/css/main.2d80333d.chunk.css",
+    "static/js/main.ba1f8525.chunk.js"
+  ]
+}
